@@ -41,5 +41,6 @@ def division(a, b):
     else:
         return a / b
     
+# Se agrego la función potencia
 def potencia(a, b):
     return a ** b
