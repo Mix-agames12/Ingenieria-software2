@@ -32,9 +32,6 @@ def suma(a, b):
 def resta(a, b):
     return a - b
 
-def potencia(a, b):
-    return a ** b
-
 def multiplicacion(a, b):
     return a * b
 
@@ -43,3 +40,6 @@ def division(a, b):
         return "Error: No se puede dividir por cero."
     else:
         return a / b
+    
+def potencia(a, b):
+    return a ** b
