@@ -25,3 +25,6 @@ def calcular():
         print("Opción no válida")
 
 calcular()
+
+def multiplicacion(a, b):
+    return a * b
