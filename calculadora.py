@@ -28,3 +28,6 @@ calcular()
 
 def resta (a, b):
     return a-b
+
+def resta (a,b,d):
+    return a-b-d
